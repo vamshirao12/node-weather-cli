@@ -33,3 +33,4 @@ Weather in London: 15°C, Clear sky
 ## Dependencies
 
 - axios: For making HTTP requests .
+Node weather CLI 
