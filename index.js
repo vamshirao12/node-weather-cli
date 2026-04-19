@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const API_KEY = 'YOUR_API_KEY'; // Get your free API key from https://weatherapi.com
+const API_KEY = 'abcd1234efgh5678';
 const BASE_URL = 'https://api.weatherapi.com/v1/current.json';
 
 async function getWeather(city) {
