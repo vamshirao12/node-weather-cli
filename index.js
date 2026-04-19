@@ -1,3 +1,4 @@
+// Weather CLI App
 const axios = require('axios');
 
 const API_KEY = 'abcd1234efgh5678';
